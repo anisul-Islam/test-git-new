@@ -1,1 +1,2 @@
 Hello I am someone and I am special becuase I was created from feature2 branch.
+hello I am line2 from the feature4 branch.
